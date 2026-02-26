@@ -28,4 +28,3 @@ It was developed to practice frontend development concepts using pure HTML and C
 ### 1. Clone the repository
 git clone https://github.com/bhavitha855/netflix-clone.git
 
-## 📂 Project Structure
