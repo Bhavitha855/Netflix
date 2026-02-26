@@ -26,5 +26,5 @@ It was developed to practice frontend development concepts using pure HTML and C
 ## ⚙️ How to Run the Project
 
 ### 1. Clone the repository
-git clone https://github.com/bhavitha855/netflix-clone.git
+git clone https://github.com/Bhavitha855/netflix-clone.git
 
